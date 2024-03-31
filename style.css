@@ -43,7 +43,7 @@ main{
     height: 497px;
     background-color: var(--background-white);
     border-radius: 20px;
-    box-shadow: rgba(81, 88, 94, 0.2) 0px 8px 24px;
+    box-shadow: 0px 25px 25px 0px rgba(0,0,0,0.047); 
 
 }
 
